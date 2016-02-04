@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/ornek1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ornek1"
+        android:onClick="onClick"/>
+
+    <Button
+        android:id="@+id/ornek2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ornek2"
+        android:onClick="onClick"/>
+
+    <Button
+        android:id="@+id/ornek3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ornek3"
+        android:onClick="onClick"/>
+
+    <Button
+        android:id="@+id/ornek3_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ornek3_1"
+        android:onClick="onClick"/>
+
+    <Button
+        android:id="@+id/ornek4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ornek4"
+        android:onClick="onClick"/>
+
+    <Button
+        android:id="@+id/ornek5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ornek5"
+        android:onClick="onClick"/>
+
+    <Button
+        android:id="@+id/ornek6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ornek6"
+        android:onClick="onClick"/>
+
+    <Button
+        android:id="@+id/ornek7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ornek7"
+        android:onClick="onClick"/>
+</LinearLayout>
